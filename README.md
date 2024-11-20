@@ -29,13 +29,6 @@ Squamous cell carcinoma
 Vascular lesion
 
 
-## Conclusion:
-
--	We are required to build a multiclass classification model using a custom convolutional neural network in TensorFlow.
-- The problem of overfitting and underfitting was solved and the model was well trained for predictions. Data augmentation, outliers, and class equalization were found to be useful in improving model performance in this case.
--	Predicting a incorrect class of skin cancer
-
-
 ## Project Pipeline
 
 - Data Reading/Data Understanding
@@ -47,6 +40,13 @@ Model Building & training on the augmented data
 Class distribution
 Handling class imbalances
 Model Building & training on the rectified class imbalance data
+
+
+## Conclusion:
+
+-	We are required to build a multiclass classification model using a custom convolutional neural network in TensorFlow.
+- The problem of overfitting and underfitting was solved and the model was well trained for predictions. Data augmentation, outliers, and class equalization were found to be useful in improving model performance in this case.
+-	Predicting a incorrect class of skin cancer
 
 
 # Technologies Used
