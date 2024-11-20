@@ -60,8 +60,8 @@ Model Building & training on the rectified class imbalance data
 
 # Acknowledgements
 
-- This project was based on tutorial [https://learn.upgrad.com/course/5800/segment/55852/333577/1009201/5042348]
-- Efficient way to build CNN architecture from [https://github.com/ContentUpgrad/Convolutional-Neural-Networks/blob/main/Melanoma%20Detection%20Assignment/Starter_code_Assignment_CNN_Skin_Cancer%20(1).ipynb]
+- This project was based on tutorial https://learn.upgrad.com/course/5800/segment/55852/333577/1009201/5042348
+- Efficient way to build CNN architecture from https://github.com/ContentUpgrad/Convolutional-Neural-Networks/blob/main/Melanoma%20Detection%20Assignment/Starter_code_Assignment_CNN_Skin_Cancer%20(1).ipynb
 
 
 # Contact
